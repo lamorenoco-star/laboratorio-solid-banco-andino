@@ -109,9 +109,7 @@ La columna "Archivos nuevos" cuenta archivos de `src/main`; entre paréntesis, a
 
 ## Bloque 5 — Revisión cruzada
 
-- **Repositorio revisado:** *(completar: enlace del repo de la otra pareja)*. Rama `revision-cruzada`.
-- **Requerimiento:** R6, pago de servicios públicos.
-- **Lista de revisión que recibimos de la otra pareja:** *(pegar aquí la lista completa, con Sí/No y los dos comentarios finales)*.
+- **Repositorio revisado:** *(completar: enlace del repo de la otra pareja)*
 
 ---
 
